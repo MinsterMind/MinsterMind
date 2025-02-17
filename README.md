@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [Symbl.ai platform APIs](https://docs.symbl.ai/docs)
 
-- 🌱 I’m currently learning **Generative AI**
+- 💬 Ask me about **Node.js, Python, Java, Langchain, RAG, LLMs GCP, AWS**
 
-- 💬 Ask me about **Node.js, Java, GCP, AWS**
-
-- 📫 How to reach me **mr.manoj.mali@gmail.com**
+- 📫 How to reach me **manoj@manojmali.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/minstermind/](https://www.linkedin.com/in/minstermind/)
 
